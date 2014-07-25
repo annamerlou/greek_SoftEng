@@ -2,6 +2,19 @@
 
 ## Ακρωνύμια
 
+|API	|Application Programming Interface  |
+|GUI	|Graphical User Interface	    |
+|MDA	|Model-Driven Architecture          |
+|OMG	|Object Management Group	    |
+|ESB	|Enterprise Service Bus 	    |
+|IDE	|Integrated Development Environment |
+|POSIX	|Portable Operating System Interface|
+|TDD	|Test-Driven Development	    |
+|J2EE	|Java 2 Platform Enterprise Edition |
+|PIM	|Platform Independent Model	    |
+|PSM	|Platform Specific Model            |
+
+
 ## Εισαγωγή
 
 Ο όρος κατασκευή λογισμικού αναφέρεται στη λεπτομερή κατασκευή ενός λειτουργικού λογισμικού μέσω ενός συνδυασμού από προγραμματισμό (γραμμές κώδικα), δοκιμές επαλήθευσης, δοκιμές μονάδων, δοκιμές ολοκλήρωσης και αποτελμάτωση.  
