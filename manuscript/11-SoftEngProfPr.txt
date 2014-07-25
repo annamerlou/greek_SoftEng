@@ -2,6 +2,19 @@
 
 ## Ακρωνύμια
 
+|ACM	|Association for Computing Machinery		    |
+|BCS	|British Computer Society			    |
+|CSDA	|Certified Software Development Associate	    |
+|CSDP	|Certified Software Development Professional        |
+|IEC	|International Electrotechnical Commission          |
+|IEEE CS|IEEE Computer Society				    |
+|IFIP	|International Federation for Information Processing|
+|IP	|Intellectual Property				    | 
+|ISO	|International Organization for Standardization     |
+|NDA	|Non-Disclosure Agreement			    |
+|WIPO	|World Intellectual Property Organization	    |
+|WTO	|World Trade Organization			    |
+
 ## Εισαγωγή
 
 Το γνωστικό πεδίο Επαγγελματικές πρακτικές στην τεχνολογία λογισμικού ασχολείται με την γνώση, τις δεξιότητες και την στάση, που πρέπει να διαθέτουν οι μηχανικοί λογισμικού για να εξασκήσουν την μηχανική λογισμικού  με επαγγελματικό, υπεύθυνο και ηθικό τρόπο. Λόγω της ευρείας χρήσης των προϊόντων λογισμικού στην κοινωνική και προσωπική μας ζωή, η ποιότητα των προϊόντων λογισμικού μπορεί να έχει ισχυρές επιπτώσεις στην προσωπική μας ευημερία και στην κοινωνική αρμονία. Οι μηχανικοί λογισμικού πρέπει να ξεπεράσουν ιδιαίτερα προβλήματα για να παράξουν προϊόντα με γνωστά χαρακτηριστικά  και αξιοπιστία. Αυτή η ανάγκη απαιτεί μηχανικούς λογισμικού που κατέχουν γνώσεις, δεξιότητες, εκπαίδευση και εμπειρία στην επαγγελματική πρακτική.

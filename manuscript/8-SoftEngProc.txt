@@ -2,6 +2,19 @@
 
 ## Ακρωνύμια
 
+|BPMN	|Business Process Modeling Notation    |
+|CASE	|Computer-Assisted Software Engineering|
+|CM	|Configuration Management	       |
+|CMMI	|Capability Maturity Model Integration |
+|GQM	|Goal-Question-Metric                  |
+|IDEF0	|Integration Definition                |
+|LOE	|Level of Effort		       |
+|ODC	|Orthogonal Defect Classification      |
+|SDLC	|Software Development Life Cycle       |
+|SPLC	|Software Product Life Cycle           |
+|UML	|Unified Modeling Language             |
+
+
 ## Εισαγωγή
 
 Μια διεργασία μηχανικής αποτελείται από ένα σύνολο αλλησυσχετιζόμενων δραστηριοτήτων, οι οποίες μετατρέπουν ένα ή περισσότερα στοιχεία εισόδου σε στοιχεία εξόδου, ενώ παράλληλα καταναλώνουν πόρους ώστε να ολοκληρώσουν αυτή τη μετατροπή. Πολλές από τις διεργασίες των παραδοσιακών κλάδων της μηχανικής (π.χ. ηλεκτρικής μηχανικής, μηχανολογίας, πολιτικής μηχανικής, χημικής μηχανικής) ασχολούνται με την μετατροπή ενέργειας και φυσικών οντοτήτων από τη μια μορφή στην άλλη, όπως σε ένα υδροηλεκτρικό φράγμα το οποίο μετατρέπει τη δυναμική ενέργεια σε ηλεκτρική ενέργεια ή σε ένα διυλιστήριο πετρελαίου το οποίο χρησιμοποιεί χημικές διεργασίες για να μετατρέψει αργό πετρέλαιο σε βενζίνη.
