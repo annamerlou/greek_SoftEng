@@ -1,0 +1,80 @@
+﻿## Συντελεστές έργου
+
+**Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης**
+
+**Απαιτήσεις λογισμικού**
+
+**Σχεδιασμός λογισμικού**
+
+**Κατασκευή λογισμικού**
+
+**Έλεγχος λογισμικού**
+
+**Συντήρηση λογισμικού**
+
+**Διαχείριση σχηματισμών λογισμικού**
+
+**Διοίκηση τεχνολογίας λογισμικού**
+
+**Διεργασίες τεχνολογίας λογισμικού**
+
+**Μοντέλα και μέθοδοι τεχνολογίας λογισμικού**
+
+**Ποιότητα λογισμικού**
+
+**Επαγγελματικές πρακτικές τεχνολογίας λογισμικού**
+
+**Οικονομικά τεχνολογίας λογισμικού**
+
+**Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης**
+
+**Software Requirements**   
+Gerald Kotonya, School of Computing and Communications, Lancaster University, UK, [gerald@comp.lancs.ac.uk](mailto:gerald@comp.lancs.ac.uk)  
+Peter Sawyer, School of Computing and Communications, Lancaster University, UK, [sawyer@comp.lancs.ac.uk](mailto:sawyer@comp.lancs.ac.uk)
+
+**Software Design**   
+Yanchun Sun, School of Electronics Engineering and Computer Science, Peking University, China, [sunyc@pku.edu.cn](mailto:sunyc@pku.edu.cn)
+
+**Software Construction**   
+Xin Peng, Software School, Fudan University, China, [pengxin@fudan.edu.cn](mailto:pengxin@fudan.edu.cn)
+
+**Software Testing**   
+Antonia Bertolino, ISTI-CNR, Italy, [antonia.bertolino@isti.cnr.it](mailto:bertolino@isti.cnr.it)  
+Eda Marchetti, ISTI-CNR, Italy, [eda.marchetti@isti.cnr.it](mailto:marchetti@isti.cnr.it)
+
+**Software Maintenance**   
+Alain April, École de technologie supérieure (ÉTS), Canada, [alain.april@etsmtl.ca Mira Kajko-Mattsson, School of Information and Communication Technology, KTH Royal Institute of Technology, ](mailto:april@etsmtl.ca)[mekm2@kth.se](mailto:mekm2@kth.se)
+
+**Software Configuration Management**   
+Roger Champagne, École de technologie supérieure (ÉTS), Canada, _roger_[.champagne@etsmtl.ca](mailto:champagne@etsmtl.ca)  
+Alain April, École de technologie supérieure (ÉTS), Canada, [alain.april@etsmtl.ca](mailto:april@etsmtl.ca)
+
+**Software Engineering Management**   
+James McDonald, Department of Computer Science and Software Engineering, Monmouth University, USA, [jamesmc@monmouth.edu](mailto:jamesmc@monmouth.edu)
+
+**Software Engineering Process**   
+Annette Reilly, Lockheed Martin Information Systems & Global Solutions, USA, [annette.reilly@computer.org](mailto:reilly@computer.org)  
+Richard E. Fairley, Software and Systems Engineering Associates (S2EA), USA, [dickfairley@gmail.com](mailto:dickfairley@gmail.com)
+
+**Software Engineering Models and Methods**   
+Michael F. Siok, Lockheed Martin Aeronautics Company, USA, [mike.f.siok@lmco.com](mailto:siok@lmco.com)
+
+**Software Quality**   
+J. David Blaine, USA, [jdavidblaine@gmail.com](mailto:jdavidblaine@gmail.com)  
+Durba Biswas, Tata Consultancy Services, India, [durba.biswas@tcs.com](mailto:biswas@tcs.com)
+
+  
+
+
+**Software Engineering Professional Practice**   
+Aura Sheffield, USA, [arsheff@acm.org](mailto:arsheff@acm.org)  
+Hengming Zou, Shanghai Jiao Tong University, China, [zou@sjtu.edu.cn](mailto:zou@sjtu.edu.cn)
+
+**Software Engineering Economics**   
+Christof Ebert, Vector Consulting Services, Germany, [christof.ebert@vector.com](mailto:ebert@vector.com)
+
+**Appendix B: IEEE and ISO/IEC Standards Supporting SWEBOK**   
+James W. Moore, USA, _James.W_[.Moore@ieee.org](mailto:Moore@ieee.org)
+
+  
+
