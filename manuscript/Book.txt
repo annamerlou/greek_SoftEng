@@ -1,4 +1,4 @@
-Editors.txt
+Contributors.txt
 1-SoftReq.txt
 2-SoftDesign.txt
 3-SoftConstr.txt

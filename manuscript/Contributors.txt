@@ -1,4 +1,12 @@
-﻿## Συντελεστές έργου
+## Συμμετέχοντες στην ελληνική απόδοση του Οδηγού Γνώσεων
+
+**Επιμελητές της ελληνικής έκδοσης**
+
+Διομήδης Σπινέλλης
+
+Μάιρα Δελοπούλου
+
+Άννα Μέρλου
 
 **Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης**
 
@@ -43,11 +51,11 @@ Antonia Bertolino, ISTI-CNR, Italy, [antonia.bertolino@isti.cnr.it](mailto:berto
 Eda Marchetti, ISTI-CNR, Italy, [eda.marchetti@isti.cnr.it](mailto:marchetti@isti.cnr.it)
 
 **Software Maintenance**   
-Alain April, École de technologie supérieure (ÉTS), Canada, [alain.april@etsmtl.ca Mira Kajko-Mattsson, School of Information and Communication Technology, KTH Royal Institute of Technology, ](mailto:april@etsmtl.ca)[mekm2@kth.se](mailto:mekm2@kth.se)
+Alain April, ?cole de technologie sup?rieure (?TS), Canada, [alain.april@etsmtl.ca Mira Kajko-Mattsson, School of Information and Communication Technology, KTH Royal Institute of Technology, ](mailto:april@etsmtl.ca)[mekm2@kth.se](mailto:mekm2@kth.se)
 
 **Software Configuration Management**   
-Roger Champagne, École de technologie supérieure (ÉTS), Canada, _roger_[.champagne@etsmtl.ca](mailto:champagne@etsmtl.ca)  
-Alain April, École de technologie supérieure (ÉTS), Canada, [alain.april@etsmtl.ca](mailto:april@etsmtl.ca)
+Roger Champagne, ?cole de technologie sup?rieure (?TS), Canada, _roger_[.champagne@etsmtl.ca](mailto:champagne@etsmtl.ca)  
+Alain April, ?cole de technologie sup?rieure (?TS), Canada, [alain.april@etsmtl.ca](mailto:april@etsmtl.ca)
 
 **Software Engineering Management**   
 James McDonald, Department of Computer Science and Software Engineering, Monmouth University, USA, [jamesmc@monmouth.edu](mailto:jamesmc@monmouth.edu)
