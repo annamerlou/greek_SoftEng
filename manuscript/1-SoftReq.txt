@@ -2,9 +2,11 @@
 
 ## Ακρωνύμια
 
-|INCOSE |International Council on Systems Engineering
-|UML	|Unified Modeling Language
-|SysML  |Systems Modeling Language    
+|INCOSE |International Council on Systems Engineering |
+------------------------------------------------------
+|UML	|Unified Modeling Language		      |   
+------------------------------------------------------
+|SysML  |Systems Modeling Language    		      |
 
 
 ## Εισαγωγή
