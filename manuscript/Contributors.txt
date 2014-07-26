@@ -191,41 +191,41 @@ Marc Bouisset, Département d'informatique, UQAM
 
 ## Ομάδα επιθεώρησης της αγγλικής έκδοσης
 
-|Carlos C. Amaro, USA		|Istvan Fay, Hungary
-|Mark Ardis, USA		|Jose L. Fernandez-Sanchez, Spain
-|Mora-Soto Arturo, Spain	|Dennis J. Frailey, USA
-|Ohad Barzilay, Israel		|Tihana Galinac Grbac, Croatia
-|Gianni Basaglia, Italy		|Colin Garlick, New Zealand
-|Denis J. Bergquist, USA	|Garth J.G. Glynn, UK
-|Alexander Bogush, UK		|Jill Gostin, USA
-|Christopher Bohn, USA		|Christiane Gresse von Wangenheim, Brazil
-|Steve Bollweg, USA		|Thomas Gust, USA
-|Reto Bonderer, Switzerland	|H.N. Mok, Singapore
-|Alexei Botchkarev, Canada	|Jon D. Hagar, USA
-|Pieter Botman, Canada		|Anees Ahmed Haidary, India
-|Robert Bragner, USA		|Duncan Hall, New Zealand
-|Kevin Brune, USA		|James Hart, USA
-|Ogihara Bryan, USA		|Jens H.J. Heidrich, Germany
-|Luigi Buglione, Italy		|Rich Hilliard, USA
-|Rick Cagle, USA		|Bob Hillier, Canada
-|Barbara Canody, USA		|Norman M. Hines, USA
-|Rogerio A. Carvalho, Brazil	|Dave Hirst, USA
-|Daniel Cerys, USA		|Theresa L. Hunt, USA
-|Philippe Cohard, France	|Kenneth Ingham, USA
-|Ricardo Colomo-Palacios, Spain	|Masahiko Ishikawa, Japan
-|Mauricio Coria, Argentina	|Michael A. Jablonski, USA
-|Marek Cruz, UK			|G. Jagadeesh, India
-|Stephen Danckert, USA		|Sebastian Justicia, Spain
-|Bipul K. Das, Canada		|Umut Kahramankaptan, Belgium
-|James D. Davidson, USA		|Pankaj Kamthan, Canada
-|Jon Dehn, USA			|Perry Kapadia, USA
-|Lincoln P. Djang, USA		|Tarig A. Khalid, Sudan
-|Andreas Doblander, Austria	|Michael K.A. Klaes, Germany
-|Yi-Ben Doo, USA		|Maged Koshty, Egypt
-|Scott J. Dougherty, UK		|Claude C. Laporte, Canada
-|Regina DuBord, USA		|Dong Li, China
-|Fedor Dzerzhinskiy, Russia	|Ben Linders, Netherlands
-|Ann M. Eblen, Australia	|Claire Lohr, USA
-|David M. Endres, USA		|Vladimir Mandic, Serbia
-|Marilyn Escue, USA		|Matt Mansell, New Zealand
-|Varuna Eswer, India		|John Marien, USA
+|Carlos C. Amaro, USA			|Istvan Fay, Hungary
+|Mark Ardis, USA			|Jose L. Fernandez-Sanchez, Spain
+|Mora-Soto Arturo, Spain		|Dennis J. Frailey, USA
+|Ohad Barzilay, Israel			|Tihana Galinac Grbac, Croatia
+|Gianni Basaglia, Italy			|Colin Garlick, New Zealand
+|Denis J. Bergquist, USA		|Garth J.G. Glynn, UK
+|Alexander Bogush, UK			|Jill Gostin, USA
+|Christopher Bohn, USA			|Christiane Gresse von Wangenheim, Brazil
+|Steve Bollweg, USA			|Thomas Gust, USA
+|Reto Bonderer, Switzerland		|H.N. Mok, Singapore
+|Alexei Botchkarev, Canada		|Jon D. Hagar, USA
+|Pieter Botman, Canada			|Anees Ahmed Haidary, India
+|Robert Bragner, USA			|Duncan Hall, New Zealand
+|Kevin Brune, USA			|James Hart, USA
+|Ogihara Bryan, USA			|Jens H.J. Heidrich, Germany
+|Luigi Buglione, Italy			|Rich Hilliard, USA
+|Rick Cagle, USA			|Bob Hillier, Canada
+|Barbara Canody, USA			|Norman M. Hines, USA
+|Rogerio A. Carvalho, Brazil		|Dave Hirst, USA
+|Daniel Cerys, USA			|Theresa L. Hunt, USA
+|Philippe Cohard, France		|Kenneth Ingham, USA
+|Ricardo Colomo-Palacios, Spain		|Masahiko Ishikawa, Japan
+|Mauricio Coria, Argentina		|Michael A. Jablonski, USA
+|Marek Cruz, UK				|G. Jagadeesh, India
+|Stephen Danckert, USA			|Sebastian Justicia, Spain
+|Bipul K. Das, Canada			|Umut Kahramankaptan, Belgium
+|James D. Davidson, USA			|Pankaj Kamthan, Canada
+|Jon Dehn, USA				|Perry Kapadia, USA
+|Lincoln P. Djang, USA			|Tarig A. Khalid, Sudan
+|Andreas Doblander, Austria		|Michael K.A. Klaes, Germany
+|Yi-Ben Doo, USA			|Maged Koshty, Egypt
+|Scott J. Dougherty, UK			|Claude C. Laporte, Canada
+|Regina DuBord, USA			|Dong Li, China
+|Fedor Dzerzhinskiy, Russia		|Ben Linders, Netherlands
+|Ann M. Eblen, Australia		|Claire Lohr, USA
+|David M. Endres, USA			|Vladimir Mandic, Serbia
+|Marilyn Escue, USA			|Matt Mansell, New Zealand
+|Varuna Eswer, India			|John Marien, USA
