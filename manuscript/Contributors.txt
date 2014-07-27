@@ -30,8 +30,8 @@
 ![Σχήμα 3.1 Κατανομή των θεμάτων στο γνωστικό πεδίο Κατασκευή λογισμικού.](images/3-SoftConstr.png)
 
 [aaaa](#fig-softtest-tree)
-{id="fig-softtest-tree"}
 
+{id="fig-softtest-tree"}
 ![Σχήμα 4.1 Κατανομή των θεμάτων στο γνωστικό πεδίο Έλεγχος λογισμικού.](images/4-SoftTest.png)
 
 {id="fig-softmainten-tree"}
